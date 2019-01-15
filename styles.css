@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(107, 6, 6);
+
+}
+img {
+    width: 300px;
+
+}
+
+.flexing {
+    display: inline-grid;
+    padding: 1em;
+    margin: 2px;
+    
+}
+
+#titl {
+    color: azure;
+}
